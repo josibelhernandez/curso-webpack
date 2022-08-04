@@ -79,7 +79,7 @@ h1 {
 }
 
 mark {
-	background: #ff0;
+	background: rgb(90, 90, 73);
 	color: #000
 }
 
@@ -260,9 +260,9 @@ body {
 	display: block;
 	position: absolute;
 	width: 100%;
-	height: 130px;
+	height: 135px;
 	top: 0;
-	background: #f9f9f9;
+	background: #d6b4cc;
 	border-bottom: 1px solid rgba(0, 0, 0, .15);
 	z-index: -1
 }
